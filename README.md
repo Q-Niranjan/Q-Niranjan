@@ -58,6 +58,7 @@
   <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
   <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white" />
 
   <h3>DevOps & Tools</h3>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
@@ -81,9 +82,10 @@
 </div>
 <div align="center">
   <h2>💭 Words of Wisdom</h2>
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote"/>
-  <p><i>"Any fool can write code that a computer can understand. Good programmers write code that humans can understand."</i></p>
-  <p>- Martin Fowler</p>
+  <div style="padding: 20; max-width: 600; margin: auto;">
+    <p style="font-style: italic; font-size: 1.1;">"Any fool can write code that a computer can understand. Good programmers write code that humans can understand."</p>
+    <p style="text-align: right;">— Martin Fowler</p>
+  </div>
 </div>
 
 <div align="center">
