@@ -3,16 +3,16 @@
 </div>
 
 <div align="center">
-  <a href="mailto:niranjan.kumar.education@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
+  <a href="mailto:niranjan.kumar.education@gmail.com" style="text-decoration: none;">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://www.linkedin.com/in/niranjan-kumar-144243223/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  <a href="https://www.linkedin.com/in/niranjan-kumar-144243223/" target="_blank" style="text-decoration: none;">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://portfolio-murex-tau-97.vercel.app/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" />
+  <a href="https://portfolio-murex-tau-97.vercel.app/" target="_blank" style="text-decoration: none;">
+    <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" />
   </a>
-  <a href="https://drive.google.com/file/d/1X1Yku-WCunmuKM7SO-pR9ElrWrKCd0qe/view" target="_blank">
+  <a href="https://drive.google.com/file/d/1X1Yku-WCunmuKM7SO-pR9ElrWrKCd0qe/view" target="_blank" style="text-decoration: none;">
     <img src="https://img.shields.io/badge/Resume-4285F4?style=for-the-badge&logo=google-drive&logoColor=white" />
   </a>
   <img src="https://komarev.com/ghpvc/?username=Q-Niranjan&abbreviated=true&style=for-the-badge"/>
