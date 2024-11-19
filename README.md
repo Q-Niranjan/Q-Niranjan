@@ -79,6 +79,12 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Q-Niranjan&theme=transparent&hide&border=true" alt="Niranjan's Streak" />
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Q-Niranjan&theme=react-dark&hide_border=true&custom_title=Contribution%20Graph" alt="Niranjan's Activity Graph" />
 </div>
+<div align="center">
+  <h2>💭 Words of Wisdom</h2>
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote"/>
+  <p><i>"Any fool can write code that a computer can understand. Good programmers write code that humans can understand."</i></p>
+  <p>- Martin Fowler</p>
+</div>
 
 <div align="center">
   <h2>🤝 Let's Connect!</h2>
