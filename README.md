@@ -9,7 +9,7 @@
   <a href="https://www.linkedin.com/in/niranjan-kumar-144243223/" target="_blank" style="text-decoration: none;">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://portfolio-murex-tau-97.vercel.app/" target="_blank" style="text-decoration: none;">
+  <a href="https://q-niranjan.vercel.app/" target="_blank" style="text-decoration: none;">
     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" />
   </a>
   <a href="https://drive.google.com/file/d/1X1Yku-WCunmuKM7SO-pR9ElrWrKCd0qe/view" target="_blank" style="text-decoration: none;">
