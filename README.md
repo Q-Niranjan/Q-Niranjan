@@ -1,5 +1,7 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=FFFFFF&center=true&vCenter=true&random=false&width=435&lines=Hi+there!+I'm+Niranjan+%F0%9F%91%8B;" alt="Typing SVG" />
+ <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=4B4B4B&center=true&vCenter=true&random=false&width=435&lines=Hi+there!+I'm+Niranjan+%F0%9F%91%8B;" alt="Typing SVG" />
+
+
 </div>
 
 <div align="center">
@@ -19,17 +21,6 @@
 </div>
 
 <br>
-
-<div align="center">
-  <h2>💫 About Me</h2>
-  <p><b>Passionate about crafting elegant solutions to complex problems</b></p>
-  <p>
-    🔭 Currently building innovative web applications<br>
-    🌱 Always learning and exploring new technologies<br>
-    💡 Love to collaborate on interesting projects<br>
-    🎯 Goal-oriented and detail-focused developer
-  </p>
-</div>
 <div align="center">
 <div align="center">
   <h2></h2>
@@ -37,9 +28,4 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Q-Niranjan&theme=react-dark&hide_border=true&custom_title=Contribution%20Graph" alt="Niranjan's Activity Graph" />
 </div>
 
-<div align="center">
-  <h2>🤝 Let's Connect!</h2>
-  <p>I'm always interested in connecting with fellow developers and discussing new opportunities!</p>
-  <p>Feel free to reach out through any of the social links above or star ⭐ repositories you find interesting.</p>
-  
-</div>
+
