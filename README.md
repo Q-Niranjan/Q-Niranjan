@@ -25,7 +25,6 @@
 <div align="center">
   <h2></h2>
   <img src="https://github-readme-stats.vercel.app/api?username=Q-Niranjan&show_icons=true&bg_color=00000000" alt="Niranjan's GitHub stats" />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Q-Niranjan&theme=react-dark&hide_border=true&custom_title=Contribution%20Graph" alt="Niranjan's Activity Graph" />
 </div>
 
 
