@@ -22,9 +22,5 @@
 
 <br>
 <div align="center">
-<div align="center">
-  <h2></h2>
-  <img src="https://github-readme-stats.vercel.app/api?username=Q-Niranjan&show_icons=true&bg_color=00000000" alt="Niranjan's GitHub stats" />
-</div>
 
 
