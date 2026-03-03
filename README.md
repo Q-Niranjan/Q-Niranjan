@@ -20,12 +20,12 @@
 
 <br/>
 
-<!-- <div align="center">
+<div align="center">
   Backend Engineer with 2+ years building production systems in Python and FastAPI.<br/>
   Focused on IAM, distributed authentication, and developer infrastructure.<br/>
   Open source contributor at <a href="https://github.com/OpenG2P">OpenG2P</a>, building dynamic registry systems.<br/>
   Currently building <a href="https://github.com/Q-Niranjan/auth-engine">AuthEngine</a> — a production-grade IAM platform with built-in OIDC.
-</div> -->
+</div> 
 
 <br/>
 
@@ -35,6 +35,6 @@
 
 ---
 
-<div align="center">
+<!-- <div align="center">
   <img src="https://github-readme-stats-sooty-eight-82.vercel.app/api?username=Q-Niranjan&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&cache_seconds=1800" />
-</div>
+</div> -->
