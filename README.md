@@ -20,12 +20,12 @@
 
 <br/>
 
-<div align="center">
+<!-- <div align="center">
   Backend Engineer with 2+ years building production systems in Python and FastAPI.<br/>
   Focused on IAM, distributed authentication, and developer infrastructure.<br/>
   Open source contributor at <a href="https://github.com/OpenG2P">OpenG2P</a>, building dynamic registry systems.<br/>
   Currently building <a href="https://github.com/Q-Niranjan/auth-engine">AuthEngine</a> — a production-grade IAM platform with built-in OIDC.
-</div>
+</div> -->
 
 <br/>
 
