@@ -12,6 +12,9 @@
   <a href="https://q-niranjan.vercel.app/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" />
   </a>
+   <a href="https://drive.google.com/file/d/1X1Yku-WCunmuKM7SO-pR9ElrWrKCd0qe/view" target="_blank">
+    <img src="https://img.shields.io/badge/Resume-4285F4?style=for-the-badge&logo=google-drive&logoColor=white" />
+  </a>
   <img src="https://komarev.com/ghpvc/?username=Q-Niranjan&abbreviated=true&style=for-the-badge"/>
 </div>
 
