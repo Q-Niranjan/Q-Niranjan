@@ -21,12 +21,15 @@
 <br/>
 
 <div align="center">
-  Backend Engineer with 2+ years building production systems in Python & FastAPI.<br/>
-  Specialized in IAM, distributed authentication, and developer infrastructure.<br/>
-  Open source contributor at <a href="https://github.com/OpenG2P">OpenG2P</a>
- — building dynamic registry.<br>
-Building <a href="https://github.com/Q-Niranjan/auth-engine">AuthEngine</a> — an IAM platform with built-in OIDC.
+  Backend Engineer with 2+ years building production systems in Python and FastAPI.<br/>
+  Focused on IAM, distributed authentication, and developer infrastructure.<br/>
+  Open source contributor at <a href="https://github.com/OpenG2P">OpenG2P</a>, building dynamic registry systems.<br/>
+  Currently building <a href="https://github.com/Q-Niranjan/auth-engine">AuthEngine</a> — a production-grade IAM platform with built-in OIDC.
 </div>
+
+<br/>
+
+<br/>
 
 <br/>
 
