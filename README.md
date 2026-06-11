@@ -24,7 +24,7 @@
 
 <div align="center">
   Software engineer with 2+ years building production systems at national scale.<br/>
-  Focused on identity &amp; access management, distributed authentication, and developer infrastructure.<br/>
+  Focused on identity &amp; access management, distributed systems, and developer infrastructure.<br/>
   Open source contributor at <a href="https://github.com/OpenG2P">OpenG2P</a>, building dynamic registry systems.<br/>
   Currently building <a href="https://github.com/auth-engine">AuthEngine</a> —
   <a href="https://api.authengine.org/docs"> live demo </a>  production-grade IAM platform with built-in OIDC.
