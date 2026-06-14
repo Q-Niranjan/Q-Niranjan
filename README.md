@@ -27,7 +27,7 @@
   Focused on identity &amp; access management, distributed systems, and developer infrastructure.<br/>
   Open source contributor at <a href="https://github.com/OpenG2P">OpenG2P</a>, building dynamic registry systems.<br/>
   Currently building <a href="https://github.com/auth-engine">AuthEngine</a> —
-  <a href="https://api.authengine.org/docs"> live demo </a>  production-grade IAM platform with built-in OIDC.
+  <a href="https://app.authengine.org"> live demo </a>  production-grade IAM platform with built-in OIDC.
 </div>
 
 <br/>
