@@ -13,8 +13,8 @@
 <a href="https://q-niranjan.vercel.app/" target="_blank">
   <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" />
 </a>
-<a href="https://api.authengine.org/docs" target="_blank">
-  <img src="https://img.shields.io/badge/AuthEngine-Live-6366F1?style=for-the-badge&logoColor=white" />
+<a href="https://docs.authengine.org" target="_blank">
+  <img src="https://img.shields.io/badge/AuthEngine-Docs-6366F1?style=for-the-badge&logoColor=white" />
 </a>
 <img src="https://komarev.com/ghpvc/?username=Q-Niranjan&abbreviated=true&style=for-the-badge"/>
 
